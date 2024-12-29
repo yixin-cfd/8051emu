@@ -1,0 +1,3 @@
+/mnt/e/linux/Data/Code/CPP/8051emu/build/CMakeFiles/8051emu.dir
+/mnt/e/linux/Data/Code/CPP/8051emu/build/CMakeFiles/edit_cache.dir
+/mnt/e/linux/Data/Code/CPP/8051emu/build/CMakeFiles/rebuild_cache.dir
