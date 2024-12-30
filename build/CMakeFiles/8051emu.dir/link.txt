@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/8051emu.dir/src/emu8051.c.o CMakeFiles/8051emu.dir/src/main.c.o -o 8051emu 
