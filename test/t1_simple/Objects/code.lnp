@@ -1,3 +1,0 @@
-".\Objects\t1_simple.obj" 
-TO ".\Objects\code" 
-PRINT(".\Listings\code.m51")

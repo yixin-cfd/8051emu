@@ -1,3 +1,0 @@
-".\Objects\HELLO.obj" 
-TO ".\Objects\code" 
-PRINT(".\code.m51") RAMSIZE(256) 
